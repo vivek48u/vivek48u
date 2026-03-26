@@ -18,4 +18,4 @@
 
 ## 📫 Contact Me
 - Email: patilvivek2210@gmail.com
-- LinkedIn: linkedin.com/in/vivek-patil-13962b288
+- LinkedIn: https://www.linkedin.com/in/vivek-patil-13962b288/
