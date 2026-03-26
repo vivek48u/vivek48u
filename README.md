@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vivek 👋
 
-<!--
-**vivek48u/vivek48u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 TYBSc Computer Science Student  
+💻 Skills: Java, JavaScript, HTML, CSS  
+🚀 Currently Learning: Web Development  
+📌 Interested in: App Development 
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Java
+- JavaScript
+- Git & GitHub
+- VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔹 Student Management System (Java)
+- 🔹 GanaApp(Spotify-Clone)
+- 🔹 Portfolio Website
+
+## 📫 Contact Me
+- Email: patilvivek2210@gmail.com
+- LinkedIn: linkedin.com/in/vivek-patil-13962b288
