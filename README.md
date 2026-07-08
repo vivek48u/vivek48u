@@ -11,8 +11,10 @@
 - VS Code
 
 ## 📂 Projects
-- 🔹 Notes Application
-- 🔹 GanaApp(Spotify-Clone)
+- Notes Application
+- GanaApp(Spotify-Clone)
+- To Do Application
+- Calculator
 
 ## 📫 Contact Me
 - Email: patilvivek2210@gmail.com
