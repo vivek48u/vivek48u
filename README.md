@@ -1,9 +1,8 @@
 # Hi, I'm Vivek 👋
 
-🎓 TYBSc Computer Science Student  
-💻 Skills: Java, JavaScript, HTML, CSS  
-🚀 Currently Learning: Web Development  
-📌 Interested in: App Development 
+🎓 BSc Computer Science Graduate 
+💻 Skills: Java, JavaScript, HTML, CSS, ReactJs  
+🚀 Currently Learning: Web Development 
 
 ## 🔧 Technologies & Tools
 - Java
@@ -12,9 +11,8 @@
 - VS Code
 
 ## 📂 Projects
-- 🔹 Student Management System (Java)
+- 🔹 Notes Application
 - 🔹 GanaApp(Spotify-Clone)
-- 🔹 Portfolio Website
 
 ## 📫 Contact Me
 - Email: patilvivek2210@gmail.com
