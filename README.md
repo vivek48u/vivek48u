@@ -1,6 +1,6 @@
 # Hi, I'm Vivek 👋
 
-🎓 BSc Computer Science Graduate 
+🎓 BSc Computer Science Graduate
 💻 Skills: Java, JavaScript, HTML, CSS, ReactJs  
 🚀 Currently Learning: Web Development 
 
